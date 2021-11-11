@@ -1,0 +1,5 @@
+# Informações importantes:keyboard:
+
+#### Download arquivo git:
+
+- https://git-scm.com/downloads/
